@@ -1,0 +1,14 @@
+D:\Inf\Atestat Cristi\Atestat Cristi\bin\Debug\Atestat Cristi.exe.config
+D:\Inf\Atestat Cristi\Atestat Cristi\bin\Debug\Atestat Cristi.exe
+D:\Inf\Atestat Cristi\Atestat Cristi\bin\Debug\Atestat Cristi.pdb
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat Cristi.csproj.AssemblyReference.cache
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat_Cristi.Form1.resources
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat_Cristi.Form2.resources
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat_Cristi.Properties.Resources.resources
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat Cristi.csproj.GenerateResource.cache
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat Cristi.csproj.CoreCompileInputs.cache
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat Cristi.exe
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat Cristi.pdb
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat_Cristi.Form3.resources
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat_Cristi.Form4.resources
+D:\Inf\Atestat Cristi\Atestat Cristi\obj\Debug\Atestat_Cristi.Form5.resources

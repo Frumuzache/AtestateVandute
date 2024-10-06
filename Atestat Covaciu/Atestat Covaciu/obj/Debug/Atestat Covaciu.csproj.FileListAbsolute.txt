@@ -1,0 +1,14 @@
+D:\skema\Atestat Covaciu\Atestat Covaciu\bin\Debug\Atestat Covaciu.exe.config
+D:\skema\Atestat Covaciu\Atestat Covaciu\bin\Debug\Atestat Covaciu.exe
+D:\skema\Atestat Covaciu\Atestat Covaciu\bin\Debug\Atestat Covaciu.pdb
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat Covaciu.csproj.AssemblyReference.cache
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat_Covaciu.Form1.resources
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat_Covaciu.Form2.resources
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat_Covaciu.Form3.resources
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat_Covaciu.Form4.resources
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat_Covaciu.Form5.resources
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat_Covaciu.Properties.Resources.resources
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat Covaciu.csproj.GenerateResource.cache
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat Covaciu.csproj.CoreCompileInputs.cache
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat Covaciu.exe
+D:\skema\Atestat Covaciu\Atestat Covaciu\obj\Debug\Atestat Covaciu.pdb
