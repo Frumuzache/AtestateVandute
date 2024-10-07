@@ -1,0 +1,14 @@
+D:\skema\Atestat Mario\Atestat Mario\bin\Debug\Atestat Mario.exe.config
+D:\skema\Atestat Mario\Atestat Mario\bin\Debug\Atestat Mario.exe
+D:\skema\Atestat Mario\Atestat Mario\bin\Debug\Atestat Mario.pdb
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat Mario.csproj.AssemblyReference.cache
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat_Mario.Form1.resources
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat_Mario.Form2.resources
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat_Mario.Form3.resources
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat_Mario.Form4.resources
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat_Mario.Form5.resources
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat_Mario.Properties.Resources.resources
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat Mario.csproj.GenerateResource.cache
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat Mario.csproj.CoreCompileInputs.cache
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat Mario.exe
+D:\skema\Atestat Mario\Atestat Mario\obj\Debug\Atestat Mario.pdb
