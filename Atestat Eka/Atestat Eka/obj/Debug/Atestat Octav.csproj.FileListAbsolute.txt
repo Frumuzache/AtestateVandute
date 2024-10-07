@@ -1,0 +1,14 @@
+D:\Inf\Atestat Octav\Atestat Octav\bin\Debug\Atestat Octav.exe.config
+D:\Inf\Atestat Octav\Atestat Octav\bin\Debug\Atestat Octav.exe
+D:\Inf\Atestat Octav\Atestat Octav\bin\Debug\Atestat Octav.pdb
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat Octav.csproj.AssemblyReference.cache
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat_Octav.Form1.resources
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat_Octav.Form2.resources
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat_Octav.Form3.resources
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat_Octav.Form4.resources
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat_Octav.Form5.resources
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat_Octav.Properties.Resources.resources
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat Octav.csproj.GenerateResource.cache
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat Octav.csproj.CoreCompileInputs.cache
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat Octav.exe
+D:\Inf\Atestat Octav\Atestat Octav\obj\Debug\Atestat Octav.pdb

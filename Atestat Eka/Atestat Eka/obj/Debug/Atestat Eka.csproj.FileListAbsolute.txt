@@ -1,0 +1,14 @@
+D:\skema\Atestat Eka\Atestat Eka\bin\Debug\Atestat Eka.exe.config
+D:\skema\Atestat Eka\Atestat Eka\bin\Debug\Atestat Eka.exe
+D:\skema\Atestat Eka\Atestat Eka\bin\Debug\Atestat Eka.pdb
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat Eka.csproj.AssemblyReference.cache
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat_Eka.Form1.resources
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat_Eka.Form2.resources
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat_Eka.Form3.resources
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat_Eka.Form4.resources
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat_Eka.Form5.resources
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat_Eka.Properties.Resources.resources
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat Eka.csproj.GenerateResource.cache
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat Eka.csproj.CoreCompileInputs.cache
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat Eka.exe
+D:\skema\Atestat Eka\Atestat Eka\obj\Debug\Atestat Eka.pdb
